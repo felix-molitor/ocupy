@@ -39,7 +39,7 @@ setup(name=name,
     install_requires=[
       'numpy',
       'scipy',
-      'PIL',
+      'pillow',
       'h5py'
     ],
     test_suite='ocupy.tests',
